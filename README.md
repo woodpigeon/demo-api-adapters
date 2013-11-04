@@ -1,7 +1,11 @@
 # demo-api-adapters
 
-A set of API adapters to work with the XXX APIs. Based on the 
+A set of API adapters to work with api playground apis for example
+[demo-api](https://github.com/woodpigeon/demo-api)). Based almost entirely on the 
 [alphagov gds-api-adapters](https://github.com/alphagov/gds-api-adapters) gem.
+
+The gem is included in [demo-api-consumer](https://github.com/woodpigeon/demo-api-consumer) 
+- see that project for more information.
 
 ## Installation
 
@@ -16,9 +20,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install demo_api_adapters
-
-## Usage
-
 
 ## Contributing
 
