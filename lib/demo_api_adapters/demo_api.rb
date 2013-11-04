@@ -1,8 +1,9 @@
+# This is the API-specific class ie for accessing the demo api
 require 'demo_api_adapters/base'
 
-class DemoApiAdapters::TeamApi < DemoApiAdapters::Base
+class DemoApiAdapters::DemoApi < DemoApiAdapters::Base
 
-  def teams(options)
+  def teams(options = {})
     query = query_string(options)
     get_list!("#{endpoint}/teams#{query}").to_ostruct
   end
