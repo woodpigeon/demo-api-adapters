@@ -1,0 +1,58 @@
+{
+  "total": 11,
+  "current_page": 1,
+  "pages": 2,
+  "page_size": 10,
+  "results": [
+    {
+      "id": 1,
+      "name": "sTeam Re-contextualized neutral architecture",
+      "email": "solen@pouros.name"
+    },
+    {
+      "id": 2,
+      "name": "Team Organized needs-based emulation",
+      "email": "alison@koch.info"
+    },
+    {
+      "id": 3,
+      "name": "Team Progressive solution-oriented parallelism",
+      "email": "adolph_hickle@purdy.name"
+    },
+    {
+      "id": 4,
+      "name": "Team Pre-emptive full-range function",
+      "email": "rosendo@davis.net"
+    },
+    {
+      "id": 5,
+      "name": "Team Quality-focused empowering throughput",
+      "email": "rigoberto_nolan@kreiger.name"
+    },
+    {
+      "id": 6,
+      "name": "Team Operative eco-centric project",
+      "email": "cecelia.schumm@carterheaney.info"
+    },
+    {
+      "id": 7,
+      "name": "Team Persevering intermediate hub",
+      "email": "carolina@gleichner.biz"
+    },
+    {
+      "id": 8,
+      "name": "Team Centralized static moratorium",
+      "email": "dariana@macgyver.info"
+    },
+    {
+      "id": 9,
+      "name": "Team Extended transitional software",
+      "email": "kendall.ledner@rice.name"
+    },
+    {
+      "id": 10,
+      "name": "Team Cross-platform coherent migration",
+      "email": "danika_lueilwitz@ziemannrowe.com"
+    }
+  ]
+}
